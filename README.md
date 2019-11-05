@@ -25,6 +25,18 @@ The first step of the this course is to start working with QGIS and using the da
 - Create custom applications based on QGIS API
 
 
+- [Install QGIS](https://www.youtube.com/watch?v=lg9ceXoCUFE)
+- [setting up](https://www.youtube.com/watch?v=vaH2JJ7TkIM)
+- [Reviewing Spatial data fundamentals](http://spatialquerylab.com/FOSS4GAcademy/Lectures/GST102/L1/Reviewing%20the%20Basics%20of%20Geospatial%20Data%20output/story_html5.html)
+- [Styling maps and visualization](https://www.youtube.com/watch?v=vPWmoxuAmJU)
+- [Working with Spatial Data](https://www.youtube.com/watch?v=7qjoTaaCwfA)
+- [Vector Data - Network Analysis](http://spatialquerylab.com/FOSS4GAcademy/Lectures/GST102/L6/Vector%20Data%20Analysis%20Network%20Analysis%20output/story_html5.html)
+
+## Resources
+- [PyQGIS Cookbook](https://docs.qgis.org/2.18/en/docs/pyqgis_developer_cookbook/intro.html)
+- [Processing Toolbox Python Programming](https://howtoinqgis.wordpress.com/2017/04/12/basic-rules-for-writing-python-scripts-for-processing-toolbox-in-qgis/)
+  
+
 
 ## Refernces
 - [1] https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science%3A-the-new-frontier-in-analytics/
