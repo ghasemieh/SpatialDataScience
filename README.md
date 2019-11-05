@@ -11,7 +11,7 @@ Spatial data science allows analysts to extract deeper insight from data using a
 - Spatial objects are usually represented by vector data.  For example, a vector data set may describe the borders of the countries of the world (geometry), and also store their names and the size of their population in 2015; or the geometry of the roads in an area, as well as their type and names. These additional variables are often referred to as “attributes”. 
 - Continuous spatial data (fields) are usually represented with a raster data structure [2]. 
 
-We would be more focussed on the vector type data. you can look at [GeoDa Software website]{https://geodacenter.github.io/data-and-lab//}.
+We would be more focussed on the vector type data. you can look at [GeoDa Software website](https://geodacenter.github.io/data-and-lab//).
 
 ### QGIS 
 
