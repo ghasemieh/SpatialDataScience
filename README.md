@@ -27,6 +27,6 @@ The first step of the this course is to start working with QGIS and using the da
 
 
 ## Refernces
-[1] https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science%3A-the-new-frontier-in-analytics/
-[2] https://www.rspatial.org/raster/spatial/2-spatialdata.html
-[3] https://qgis.org/en/site/forusers/download.html
+- [1] https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science%3A-the-new-frontier-in-analytics/
+- [2] https://www.rspatial.org/raster/spatial/2-spatialdata.html
+- [3] https://qgis.org/en/site/forusers/download.html
