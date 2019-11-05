@@ -13,23 +13,20 @@ Spatial data science allows analysts to extract deeper insight from data using a
 
 We would be more focussed on the vector type data. you can look at [GeoDa Software website]{https://geodacenter.github.io/data-and-lab//}.
 
+### QGIS 
 
+QGIS is a free and open-source cross-platform desktop geographic information system application that supports viewing, editing, and analysis of geospatial data. It supports the creation, editing, visualisation, analyses and publishing the  geospatial information on Windows, Mac, Linux, BSD [3]. 
 
+The first step of the this course is to start working with QGIS and using the data from GeoDa[2]. This would is make you aware of spatial data elements and getting hands dirty in PyQGIS (scripting in QGIS). PyQGIS bindings depend on SIP and PyQt4. Python bindings for Qt (PyQt) are done also using SIP and this allows seamless integration of PyQGIS with PyQt. There are several ways how to use Python bindings in QGIS desktop, they are covered in detail in the following sections:
 
+- Automatically run Python code when QGIS starts
+- Issue commands in Python console within QGIS
+- Create and use plugins in Python
+- Create custom applications based on QGIS API
 
-### 
-
-Thi The motive of this course is make you aware of spatial data elements and getting hands dirty in PyQGIS. PyQGIS bindings depend on SIP and PyQt4. Python bindings for Qt (PyQt) are done also using SIP and this allows seamless integration of PyQGIS with PyQt.
-
-There are several ways how to use Python bindings in QGIS desktop, they are covered in detail in the following sections:
-
-automatically run Python code when QGIS starts
-issue commands in Python console within QGIS
-create and use plugins in Python
-create custom applications based on QGIS API
-QGIS can be downloaded from https://qgis.org/en/site/forusers/download.html
 
 
 ## Refernces
 [1] https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science%3A-the-new-frontier-in-analytics/
 [2] https://www.rspatial.org/raster/spatial/2-spatialdata.html
+[3] https://qgis.org/en/site/forusers/download.html
