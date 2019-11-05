@@ -24,7 +24,7 @@ The first step of the this course is to start working with QGIS and using the da
 - Create and use plugins in Python
 - Create custom applications based on QGIS API
 
-
+## Knowing QGIS and data
 - [Install QGIS](https://www.youtube.com/watch?v=lg9ceXoCUFE)
 - [setting up](https://www.youtube.com/watch?v=vaH2JJ7TkIM)
 - [Reviewing Spatial data fundamentals](http://spatialquerylab.com/FOSS4GAcademy/Lectures/GST102/L1/Reviewing%20the%20Basics%20of%20Geospatial%20Data%20output/story_html5.html)
