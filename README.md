@@ -1,6 +1,6 @@
 # SpatialDataScience
 
-Spatial data science allows analysts to extract deeper insight from data using a comprehensive set of analytical methods and spatial algorithms, including machine learning and deep learning techniques [https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science%3A-the-new-frontier-in-analytics/][1]. 
+Spatial data science allows analysts to extract deeper insight from data using a comprehensive set of analytical methods and spatial algorithms, including machine learning and deep learning techniques [][1]. 
 
 
 
@@ -13,3 +13,7 @@ issue commands in Python console within QGIS
 create and use plugins in Python
 create custom applications based on QGIS API
 QGIS can be downloaded from https://qgis.org/en/site/forusers/download.html
+
+
+## Refernces
+[1] https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science%3A-the-new-frontier-in-analytics/
